@@ -91,12 +91,14 @@
     padding:70px 0;
     width: 100%;
     line-height: 0.2;
+    
 }
 h2{
     font-family: Oswald;
     font-size: 40px;
 }
-h4{
+
+p{
     font-family: Dancing Script;
     font-size: 18px;
 }
@@ -186,4 +188,8 @@ h4{
 .grid-contract-service a{
     text-decoration: none;
     color: #000;
+}
+.word p{
+    font-family: Oswald;
+    font-weight: lighter;
 }
